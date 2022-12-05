@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/handyman/static/css/main.dc49b1dd.css",
+    "main.js": "/handyman/static/js/main.6402eb09.js",
+    "static/media/welding.png": "/handyman/static/media/welding.3e5d1d9f6583cd7fb0d9.png",
+    "static/media/plumbing.png": "/handyman/static/media/plumbing.b093ca21bbaace215db5.png",
+    "static/media/electrician.png": "/handyman/static/media/electrician.af13b1c232d5b3a5c8fe.png",
+    "static/media/woodworker.png": "/handyman/static/media/woodworker.3099a74b987fffbcfdd2.png",
+    "static/media/household cleaning.png": "/handyman/static/media/household cleaning.6f79271a3b406736b29f.png",
+    "static/media/painter.png": "/handyman/static/media/painter.57060aaa8b72f33f956d.png",
+    "static/media/cat6.png": "/handyman/static/media/cat6.1229e865e0601f3a2842.png",
+    "static/media/cat2.png": "/handyman/static/media/cat2.f70a53e8271af160fd74.png",
+    "static/media/cat3.png": "/handyman/static/media/cat3.777bef481648b1e161f5.png",
+    "static/media/cat5.png": "/handyman/static/media/cat5.6a5f79ca70bd8597f069.png",
+    "static/media/cat4.png": "/handyman/static/media/cat4.7b90c2f3d688ce6f12e3.png",
+    "static/media/cat1.png": "/handyman/static/media/cat1.483d5354db1764e21379.png",
+    "static/media/discount.png": "/handyman/static/media/discount.bb8f8da8b4e18adb5cfa.png",
+    "static/media/logo.png": "/handyman/static/media/logo.70fe12fc51ca94930300.png",
+    "index.html": "/handyman/index.html",
+    "main.dc49b1dd.css.map": "/handyman/static/css/main.dc49b1dd.css.map",
+    "main.6402eb09.js.map": "/handyman/static/js/main.6402eb09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc49b1dd.css",
+    "static/js/main.6402eb09.js"
+  ]
+}
