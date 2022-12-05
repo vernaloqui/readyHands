@@ -11,7 +11,7 @@ function Category(){
             <h1>Category</h1>
             <div >
                 <div className="col mb-3" style={{display:'inline-flex'}}>
-                    <Card img={cat1} title={'Carpenter'} text={'If you need something fixed in your house'} />
+                    <Card img={cat1} title={'Carpenter'} text={''} />
                     <Card img={cat2} title={'Plumber'} text={''} />
                     <Card img={cat3} title={'Painter'} text={''} />
                 </div>
