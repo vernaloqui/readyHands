@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/handyman/static/css/main.dc49b1dd.css",
-    "main.js": "/handyman/static/js/main.6402eb09.js",
+    "main.js": "/handyman/static/js/main.9e606cbd.js",
     "static/media/welding.png": "/handyman/static/media/welding.3e5d1d9f6583cd7fb0d9.png",
     "static/media/plumbing.png": "/handyman/static/media/plumbing.b093ca21bbaace215db5.png",
     "static/media/electrician.png": "/handyman/static/media/electrician.af13b1c232d5b3a5c8fe.png",
@@ -18,10 +18,10 @@
     "static/media/logo.png": "/handyman/static/media/logo.70fe12fc51ca94930300.png",
     "index.html": "/handyman/index.html",
     "main.dc49b1dd.css.map": "/handyman/static/css/main.dc49b1dd.css.map",
-    "main.6402eb09.js.map": "/handyman/static/js/main.6402eb09.js.map"
+    "main.9e606cbd.js.map": "/handyman/static/js/main.9e606cbd.js.map"
   },
   "entrypoints": [
     "static/css/main.dc49b1dd.css",
-    "static/js/main.6402eb09.js"
+    "static/js/main.9e606cbd.js"
   ]
 }
