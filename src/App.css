@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 .App {
   text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 
 .App-logo {
@@ -35,4 +37,120 @@
   to {
     transform: rotate(360deg);
   }
+}
+.login{
+  width:320px;
+  padding: 30px;
+  margin-left: auto;
+  margin-right:auto;  
+}
+form{
+  /* background: linear-gradient(90deg, #b45113, #c4813a);		 */
+	height: 400px;
+  width: 320px;
+	box-shadow: 0px 0px 24px #5C5696;
+  margin-top: 75px;
+  margin-left: auto;
+  margin-right:auto;
+  border-radius: 5%;
+  padding:10px;
+  color: orange;
+}
+.loginField{
+  padding: 20px 0px;
+  position: relative;
+  
+}
+.bi{
+  position: absolute;
+  top: 30px;
+  color: orange;
+}
+input{
+  border: none;
+  border-bottom: 2px solid #D1D1D4;
+  background: none;
+  padding: 10px;
+  padding-left: 24px;
+  font-weight: 700;
+  width: 75%;
+  transition: 0.2s;
+}
+input:active, input:focus, input:hover{
+  outline: none;
+  border-bottom-color: orange;
+}
+.check{
+  padding: 0px 40px;
+  font-weight: 400;
+  display: flex;
+}
+.form-check-label{
+  padding: 0px 5px;
+  font-size: 1em;
+}
+.logIn, .save{
+  border: orange solid 2px;
+  color: orange;
+}
+.signUp{
+  
+  padding: 5px;
+  position: relative;
+  font-size: 20px;
+  color: orange;
+  border: orange solid 2px;
+}
+.signUp:hover, .save:hover, .logIn:hover{
+  border: black;
+  color: orange;
+  background-color: black;
+}
+.UsersignUpForm, .ProviderSignUpForm{
+  /* background: linear-gradient(90deg, #b45113, #c4813a);		 */
+	height: 550px;
+  width: 320px;
+	box-shadow: 0px 0px 24px #5C5696;
+  margin-top: 5px;
+  margin-left: auto;
+  margin-right:auto;
+  border-radius: 5%;
+  padding:5px;
+  color: orange;
+}
+.nav-tabs .nav-link.active{
+  background-color:orange;
+  color:#073418;
+  border: 3px solid orange;
+}
+.nav-tabs .nav-link{
+  background-color: #fff;
+  color: orange;
+  border: 3px solid orange;
+}
+.nav-tabs .nav-link:hover{
+  border: 3px solid #073418;
+}
+.nav-tabs {
+  border-bottom: 1px solid orange;
+  backdrop-filter: blur (1rem);
+  box-shadow:1.3rem 1.3rem 1.3rem rgba(0,0,0, 0.5);
+  border-top-color: rgba(225, 225, 225, 225, 0.5);
+  border-left-color: rgba(225, 225, 225, 225, 0.5);
+  border-bottom-color: rgba(225, 225, 225, 225, 0.5);
+  border-right-color: rgba(225, 225, 225, 225, 0.5);
+}
+.tab-content{
+  border: 1px solid orange;
+  padding: 20px;
+  backdrop-filter: blur (1rem);
+  box-shadow:1.3rem 1.3rem 1.3rem rgba(0,0,0, 0.5);
+  border-top-color: rgba(225, 225, 225, 225, 0.5);
+  border-left-color: rgba(225, 225, 225, 225, 0.5);
+  border-bottom-color: rgba(225, 225, 225, 225, 0.5);
+  border-right-color: rgba(225, 225, 225, 225, 0.5);
+}
+.box{
+  background-color: orange;
+  padding: 30px;
 }
